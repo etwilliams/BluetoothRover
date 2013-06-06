@@ -1,0 +1,2 @@
+This is an Arduino sketch for use with the SeeedStudio Motor Shield (http://www.seeedstudio.com/wiki/Motor_Shield_V1.0) and the Grove Serial Bluetooth adapter (http://www.seeedstudio.com/wiki/Grove_-_Serial_Bluetooth).
+It can be controlled using the BTRoverControl Android app (https://github.com/etwilliams/BTRoverControl)
